@@ -1,6 +1,5 @@
 import math
 
-
 def find_largest_palindrome(digits):
     largest_number = 0
     for a in range ((10**digits)-1,10**(digits-1),-1):
@@ -17,8 +16,6 @@ def find_largest_palindrome(digits):
                     largest_number = int(number)
     #Need to loop through all of them as its possible the number might not be the first one.
     return largest_number
-
-
 
 
 def find_largest_palindrome_simplified(digits):
