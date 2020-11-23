@@ -29,14 +29,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Github\project-euler\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Github\project-euler\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\project-euler\src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.id17-numberlettercounts">
+  <component name="RunManager" selected="Python.id19-countingsundays">
     <configuration name="id1-multiplesof3and5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="src" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,27 +71,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id10-summationofprimes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="id11-largestproductingrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="src" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id11-largestproductingrid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,6 +134,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id17-numberlettercounts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="id19-countingsundays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/id19-countingsundays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.id19-countingsundays" />
         <item itemvalue="Python.id17-numberlettercounts" />
         <item itemvalue="Python.id16-powerdigitsum" />
         <item itemvalue="Python.id14-longestcollatz" />
         <item itemvalue="Python.id10-summationofprimes" />
-        <item itemvalue="Python.id11-largestproductingrid" />
       </list>
     </recent_temporary>
   </component>
@@ -273,22 +273,26 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1061" y="341" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1602700054648" />
-    <state width="1696" height="399" key="GridCell.Tab.0.bottom" timestamp="1602888558714">
+    <state width="1696" height="401" key="GridCell.Tab.0.bottom" timestamp="1606153222281">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1696" height="399" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1602888558714" />
-    <state width="1696" height="399" key="GridCell.Tab.0.center" timestamp="1602888558714">
+    <state width="1696" height="401" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1606153222281" />
+    <state width="1696" height="401" key="GridCell.Tab.0.center" timestamp="1606153222281">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1696" height="399" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1602888558714" />
-    <state width="1696" height="399" key="GridCell.Tab.0.left" timestamp="1602888558714">
+    <state width="1696" height="401" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1606153222281" />
+    <state width="1696" height="401" key="GridCell.Tab.0.left" timestamp="1606153222281">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1696" height="399" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1602888558714" />
-    <state width="1696" height="399" key="GridCell.Tab.0.right" timestamp="1602888558714">
+    <state width="1696" height="401" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1606153222281" />
+    <state width="1696" height="401" key="GridCell.Tab.0.right" timestamp="1606153222281">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1696" height="399" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1602888558714" />
+    <state width="1696" height="401" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1606153222281" />
     <state width="1696" height="488" key="GridCell.Tab.1.bottom" timestamp="1602885174518">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
