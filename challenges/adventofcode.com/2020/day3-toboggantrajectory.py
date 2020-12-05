@@ -2,7 +2,7 @@
 with open('day3-input') as file:
     entries = [line.rstrip() for line in file]
 
-# Part 1
+#Part 1
 total_trees = 0
 for y in range(0, len(entries), 1):
     x = (y * 3) % len(entries[0])

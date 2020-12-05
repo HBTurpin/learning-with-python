@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f5169a4c-8d8e-466b-a017-10da33e7c20b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,42 +20,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/challenges/adventofcode.com/2020" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Github\python-challanges\src\adventofcode2020" />
-      <recent name="E:\Github\python-challanges\src\adventofcode2019" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Github\python-challanges\src\adventofcode.com" />
       <recent name="E:\Github\python-challanges\src\adventofcode.com\2020" />
       <recent name="E:\Github\python-challanges" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\python-challenges\challenges\adventofcode.com\2020" />
+      <recent name="E:\Github\python-challanges\src\adventofcode2020" />
+      <recent name="E:\Github\python-challanges\src\adventofcode2019" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.day3-toboggantrajectory">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="python-challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day5-binaryboarding">
     <configuration name="day1-reportrepair" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,83 +141,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
+    <configuration name="day4-passportprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges/adventofcode.com/2020" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges/adventofcode.com/2020/day4-passportprocessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
+    <configuration name="day5-binaryboarding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges/adventofcode.com/2020" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="python-challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="python-challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="python-challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges/adventofcode.com/2020/day5-binaryboarding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day5-binaryboarding" />
+        <item itemvalue="Python.day4-passportprocessing" />
         <item itemvalue="Python.day3-toboggantrajectory" />
         <item itemvalue="Python.day2-programalarm" />
         <item itemvalue="Python.day1-rocketequation" />
@@ -257,49 +209,53 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="321" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1607003939012" />
-    <state x="623" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607001005050">
+    <state x="623" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607196302332">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="623" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1607001005050" />
+    <state x="623" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1607196302332" />
     <state x="1387" y="428" key="FileChooserDialogImpl" timestamp="1602695879691">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1387" y="428" key="FileChooserDialogImpl/0.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1602695879691" />
-    <state width="1696" height="395" key="GridCell.Tab.0.bottom" timestamp="1607004058408">
+    <state width="1507" height="490" key="GridCell.Tab.0.bottom" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="395" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1607004058408" />
-    <state width="1696" height="395" key="GridCell.Tab.0.center" timestamp="1607004058408">
+    <state width="1507" height="490" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
+    <state width="1507" height="490" key="GridCell.Tab.0.center" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="395" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1607004058408" />
-    <state width="1696" height="395" key="GridCell.Tab.0.left" timestamp="1607004058407">
+    <state width="1507" height="490" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
+    <state width="1507" height="490" key="GridCell.Tab.0.left" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="395" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1607004058407" />
-    <state width="1696" height="395" key="GridCell.Tab.0.right" timestamp="1607004058408">
+    <state width="1507" height="490" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
+    <state width="1507" height="490" key="GridCell.Tab.0.right" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="395" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1607004058408" />
-    <state width="1696" height="488" key="GridCell.Tab.1.bottom" timestamp="1607003698635">
+    <state width="1507" height="490" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
+    <state width="1507" height="490" key="GridCell.Tab.1.bottom" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="488" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1607003698635" />
-    <state width="1696" height="488" key="GridCell.Tab.1.center" timestamp="1607003698635">
+    <state width="1507" height="490" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
+    <state width="1507" height="490" key="GridCell.Tab.1.center" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="488" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1607003698635" />
-    <state width="1696" height="488" key="GridCell.Tab.1.left" timestamp="1607003698635">
+    <state width="1507" height="490" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
+    <state width="1507" height="490" key="GridCell.Tab.1.left" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="488" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1607003698635" />
-    <state width="1696" height="488" key="GridCell.Tab.1.right" timestamp="1607003698635">
+    <state width="1507" height="490" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
+    <state width="1507" height="490" key="GridCell.Tab.1.right" timestamp="1607198271234">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="488" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1607003698635" />
+    <state width="1507" height="490" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1607198271234" />
     <state x="361" y="348" key="SettingsEditor" timestamp="1607004068420">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="361" y="348" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1607004068420" />
+    <state x="2243" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1607192008331">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2243" y="320" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1607192008331" />
   </component>
 </project>
