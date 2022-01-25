@@ -1,7 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-URL = 'https://steamcommunity.com/sharedfiles/filedetails/?id=2387767532'
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2387767532
+URL = 'https://steamcommunity.com/sharedfiles/filedetails/?id=2385576472'
 page = requests.get(URL)
 
 html = BeautifulSoup(page.content, features="lxml");
